@@ -1,0 +1,36 @@
+{
+  "name": "alexmildev/seasonvar-parser",
+  "description": "Simple php parser for seasonvar",
+  "keywords": [
+    "seasonvar",
+    "parser"
+  ],
+  "homepage": "https://github.com/alexmildev/seasonvar-parser",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Alex Milchenko",
+      "email": "alexmildev@gmail.com",
+      "homepage": "https://github.com/alexmildev",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "caophihung94/php-simple-html-dom-parser": "^1.7"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "AlexMilDev\\SeasonvarParser\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "AlexMilDev\\SeasonvarParser\\Tests\\": "tests"
+    }
+  }
+}
