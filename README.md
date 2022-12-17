@@ -7,6 +7,23 @@ This simple PHP package for parsing pages on Seasonvar site.
 ```php
 //TODO
 ```
+## Documentation
+
+The documentation for this library is hosted at [https://](https://docs/)
+
+## Getting involved
+
+There are various ways for you to get involved with simplehtmldom. Here are  a few:
+
+* Share this project with your friends (Twitter, Facebook, ..._you name it_...).
+* Report [bugs](https:///bugs/).
+* Discuss existing bugs, features and ideas.
+
+If you want to contribute code to the project, please open a [feature request](https://sourceforge.net/p/simplehtmldom/feature-requests/) and include your patch with the message.
+
+## Authors
+
+* [Alex Milchenko](https://)
 
 ## License
 
